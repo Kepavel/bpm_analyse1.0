@@ -28,7 +28,7 @@ View the BPM analysis in seconds
 
 BeatMaster utilizes the SoundTouch library's audio processing algorithms to analyze the tempo of any audio track. By processing the sound wave patterns, it accurately identifies the BPM, providing you with the tempo information needed for mixing, practicing, or just satisfying your curiosity.
 
-##Features
+## Features
 
 Fast and accurate BPM detection
 Support for a wide range of audio formats
