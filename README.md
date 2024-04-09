@@ -4,12 +4,13 @@ BeatMaster is an innovative Android application designed for music professionals
 
 ## Quick Start
 
-Getting started with BeatMaster is easy:
+Getting started with BeatMaster is easy
 
 1. **Clone the repository:**
 
 ```bash
 git clone https://github.com/yourusername/beatmaster-android.git
+```
 
 2. **Open and run the project in Android Studio:**
 
@@ -21,6 +22,7 @@ Build the project and run it on your Android device or emulator
 
 Tap 'Analyze Track' and select an audio file
 View the BPM analysis in seconds
+
 
 ## How It Works
 
